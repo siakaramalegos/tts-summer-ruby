@@ -121,6 +121,6 @@ class Vehicle
     puts "Beep!"
   end
 end
-
+# Creating a new instance of the class Vehicle called my_car
 my_car = Vehicle.new("blue", "convertible")
 my_car.honk
